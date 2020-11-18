@@ -51,8 +51,8 @@
 </template>
 
 <script>
-import "../stylesheader.css";
-import MyButton from "../componets/Button.vue";
+import "../styles/header.css";
+import MyButton from "./Button.vue";
 
 export default {
   name: "my-header",
